@@ -2,7 +2,7 @@
 
 This code is resonsible for turning gluint *
 arrays into structured representations for use
-by Python-level code.
+by Python-level code./
 """
 from OpenGL._bytes import integer_types
 

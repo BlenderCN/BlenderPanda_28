@@ -123,3 +123,5 @@ For information on controlling the camera in Panda3D, please refer to the [Contr
 
 ## Project settings
 For more information on the various project settings, please refer to the `pman` [documentation](https://github.com/Moguri/pman).
+
+# [B站教程](https://www.bilibili.com/video/av50200055)

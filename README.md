@@ -15,8 +15,8 @@ This addon mostly acts as a front-end to [blend2bam](https://github.com/Moguri/p
 ## Dependencies
 In order to use BlenderPanda, you need to satisfy two dependencies:
 
-* Blender (tested with 2.79)
-* Python 3.5+ with `panda3d` installed
+* Blender (tested with 2.80)
+* Python 3.7+ with `panda3d` installed
 
 The Python install that has `panda3d` installed needs to be on the PATH for BlenderPanda to work.
 
